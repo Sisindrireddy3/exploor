@@ -1,0 +1,32 @@
+.container{
+    height: 1500px;
+    width: 100%;
+    
+    
+}
+.nav1{
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    font-size: 35px;
+    padding: 19px;
+    background-image: url(images/expic1.jpg);  
+    background-size: cover;  
+}
+.contact{
+    margin-left: 900px;
+    font-size: 30px;
+}
+.nav2{
+    margin-left: 100px;
+    margin-top: -650px;
+    justify-content: space-between;
+
+    
+}
+
+
+    
+    
+
