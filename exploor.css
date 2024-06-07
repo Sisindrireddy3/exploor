@@ -143,14 +143,449 @@
 .price{
     margin-left: 900px;
     margin-top: -160px;
+
 }
 .packages{
     height:200px;
     width: 100%;
-    background-color: aqua;
+    
+}
+    
+.packages{
+    
     text-align: center;
     padding-top: 100px;    
 }
 .pack2{
     font-size: 60px;
 }
+.trip{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.package{
+    height: 400px;
+    width: 100%;
+    
+
+    
+    
+}
+
+.package1{
+    color: orange;
+    float: left; 
+    margin: 33px;
+    margin-left: 60px;
+    
+}.package2{
+    color: orange;
+    float: left;
+    margin:33px;
+     
+}.package3{
+    color: orange;
+    float: left; 
+    margin: 33px;  
+    
+}.package4{
+    color: orange;
+    float: left; 
+    margin: 33px;  
+    
+}
+.rating1{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating1a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating1b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price1{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+    
+    
+}
+.price1a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow1{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+.trip1{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating2{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating2a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating2b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price2{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+    
+    
+}
+.price2a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow2{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+.trip2{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating3{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating3a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating3b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price3{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+    
+    
+}
+.price3a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow3{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+
+
+.trip3{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating4{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating4a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating4b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price4{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+    
+    
+}
+.price4a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow4{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+
+
+
+
+.packagen{
+    height: 460px;
+    width: 100%;
+    
+}
+.trip4{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating5{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating5a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating5b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price5{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+    
+    
+}
+.price5a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow5{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+
+
+
+.trip5{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating6{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating6a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating6b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price6{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;
+    
+    
+}
+.price6a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow6{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+
+
+
+
+.trip6{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating7{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating7a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating7b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price7{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;   
+}
+.price7a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow7{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+
+
+
+.trip7{
+    margin-left: 30px;
+    margin-top: -41px;
+    color: black;
+    font-size:17px;
+}
+.rating8{
+    margin-left: 150px;
+    margin-top: -41px;
+    color: orange;
+}
+.rating8a{
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.rating8b{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.price8{
+    color: black;
+    margin-top: 25px;
+    font-size: 30px;   
+}
+.price8a{
+    color: black;
+    margin-left:32px ;
+    font-size: 20px;
+    margin-top: -31px;
+}
+.arrow8{
+    margin-left: 120px;
+    margin-top: -34px;
+}
+
+
+
+.package5{
+    color: orange;
+    float: left; 
+    margin: 33px;
+    margin-left: 60px;
+    
+}.package6{
+    color: orange;
+    float: left;
+    margin:33px;
+     
+}.package7{
+    color: orange;
+    float: left; 
+    margin: 33px;  
+    
+}.package8{
+    color: orange;
+    float: left; 
+    margin: 33px; 
+} 
+
+.logform{
+    height: 700px;
+    width: 100%;
+    background-image: url(images/exploorpic8.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;  
+    color: white;
+   
+}
+.log2{
+    font-size: 50px
+}
+.log3{
+    font-size: 20px;
+}
+.entry{
+    height: 400px;
+    width: 800px;
+    
+    margin-left: 320px;
+    margin-top: 70px;
+
+
+}
+.content{
+    margin-right:130px;
+}
+button{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(243, 243, 14);
+    border-radius: 20px;
+}
+    
+.testimonal{
+    height: 500px;
+    width: 100%;
+    
+    text-align: center;
+    padding-top: 130px;
+}
+.h2{
+    font-size: 50px;
+    margin-top: -25px;
+    font-weight: 800;
+}
+.h3{
+    font-size: 20px;
+}
+.h4{
+    padding-top: 60px;
+    padding-right: 60px;
+}
+.h5{
+    padding-left: 200px;
+    margin-top: -70px;
+    
+}
+   
+
+    
+
