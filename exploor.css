@@ -20,9 +20,7 @@
     display: flex;
     font-size: 35px;
     padding: 19px;
-    color: white;
-    
- 
+    color: white; 
 }
 .contact{
     margin-left: 900px;
@@ -83,21 +81,31 @@
 
 }
 .mountains{
+
     float: left;
     text-align: center;
-    margin: 60px;
-    
+    margin: 60px;    
 }
+.mountains img{
+    border-radius: 20px;
+}
+
 .nature{
 
     float: left;
     text-align: center;
     margin: 60px;
 }
+.nature img {
+    border-radius: 20px;
+}
 .scenery{
     float: left;
     text-align: center;
     margin: 60px;
+}
+.scenery img {
+    border-radius: 20px;
 }
 
 .wildlife{
@@ -106,15 +114,24 @@
     margin: 60px;
 
 }
+.wildlife img {
+    border-radius: 20px;
+}
 .bird{
     float: left;
     text-align: center;
     margin: 60px;
 }
+.bird img {
+    border-radius: 20px;
+}
 .adventure{
     float: left;
     text-align: center;
     margin: 60px;
+}
+.adventure img {
+    border-radius: 20px;
 }
 .road{
     height: 600px;
@@ -178,23 +195,37 @@
     color: orange;
     float: left; 
     margin: 33px;
-    margin-left: 60px;
-    
-}.package2{
+    margin-left: 60px;   
+}
+.package1 img{
+    border-radius: 15px;
+}
+.package2{
     color: orange;
     float: left;
     margin:33px;
      
-}.package3{
+}
+.package2 img{
+    border-radius: 15px;
+}
+.package3{
     color: orange;
     float: left; 
     margin: 33px;  
     
-}.package4{
+}
+.package3 img{
+    border-radius: 15px;
+}
+.package4{
     color: orange;
     float: left; 
     margin: 33px;  
     
+}
+.package4 img{
+    border-radius: 15px;
 }
 .rating1{
     margin-left: 150px;
@@ -510,21 +541,36 @@
     margin: 33px;
     margin-left: 60px;
     
-}.package6{
+}
+.package5 img{
+    border-radius: 15px;
+}
+.package6{
     color: orange;
     float: left;
     margin:33px;
      
-}.package7{
+}
+.package6 img{
+    border-radius: 15px;
+}
+.package7{
     color: orange;
     float: left; 
     margin: 33px;  
     
-}.package8{
+}
+.package7 img{
+    border-radius: 15px;
+}
+.package8{
     color: orange;
     float: left; 
     margin: 33px; 
 } 
+.package8 img{
+    border-radius: 15px;
+}
 
 .logform{
     height: 700px;
@@ -585,7 +631,78 @@ button{
     margin-top: -70px;
     
 }
-   
+
+
+
+.conclude{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+    background-image: url(images/exploorpic8.jpg);
+    background-size: cover;
+}
+.quick{
+    padding-top: 150px;
+    padding-left: 100px;
+    color: white;
+}
+.quick2{
 
     
+    li a{
+        display: inline;
+        justify-content: space-between;
+        text-decoration: none;
+        color: white;
+        font-size: 25px;
+        list-style: none;
+        
+       }
+       
+}
+.quick3{
+    margin-left: 980px;
+    margin-top: -210px;
+    color: white;
+}
+.quick4{
+    
 
+      
+    li a{
+        list-style: none;
+        text-decoration: none;
+        color: white;
+        font-size: 25px;
+        
+       }
+
+}   
+.quick5{
+    color: orange;
+    margin-left: 550px;
+    margin-top: -200px;
+    font-size: 30px;
+    font-weight: 900;
+} 
+.quick6 {
+    
+    margin-left: 500px
+}
+
+.quick7{
+    color: white;
+    margin-left: 550px;
+    font-size: 20px;
+    margin-top: -50px;
+    h3{
+        margin-top: -30px;
+        margin-left: -50px;
+    }
+}
+.quick8{
+    color: white;
+    padding-left: 600px;
+    font-size: 25px;
+
+}
